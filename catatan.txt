@@ -1,0 +1,4 @@
+1. masuk documentasi laravel 7 => scurity lalu cari code
+    -composer require laravel/ui:^2.4
+    -php artisan ui bootstrap --auth
+    -npm install && npm run dev
